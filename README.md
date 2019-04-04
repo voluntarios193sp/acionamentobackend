@@ -1,5 +1,3 @@
-# SARBrasil
-API para abertura de ocorrências no CobomOnline
+# Backend para acionamento de ocorrências
 
-## Membros
-Jeff Prestes, Tomaz Barreiros, Rogerio Rodrigues, Renzo Palmieri
+API para abertura de ocorrências no CobomOnline
